@@ -1,0 +1,8 @@
+.drum-pad p{
+    background-color: lightgrey;
+    padding: 30px;
+    margin: 10px;
+    font-weight: bold;
+    border-radius: 16px;
+    box-shadow: 5px 5px 0px lightslategray;
+}
